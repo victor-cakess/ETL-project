@@ -78,6 +78,7 @@ The processed data, stored in Parquet format, is ready for further analysis. Thi
 
 ## Conclusion
 
-This project demonstrates the power of PySpark and Parquet in handling large datasets, transforming raw energy data into meaningful insights. It showcases how modern data processing pipelines can be used to derive actionable insights from complex datasets.
+This project demonstrates the usefullness of PySpark and Parquet in handling large datasets, transforming raw energy data into meaningful insights. It showcases how data processing pipelines can be used to derive actionable insights from complex datasets.
 
-Feel free to explore the dataset and modify the notebook to fit your analysis needs!
+
+
